@@ -1,0 +1,4 @@
+.courses .course{
+    display:flex;
+    flex-direction:column;
+}
